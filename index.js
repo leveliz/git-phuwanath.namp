@@ -5,3 +5,7 @@ function feature1() {
 function feature2() {
     alert("NO, Hello World!");
   }
+
+function feature3() {
+    alert("YES, Hello World!");
+  }
